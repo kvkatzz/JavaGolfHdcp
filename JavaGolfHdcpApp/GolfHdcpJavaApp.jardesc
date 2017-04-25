@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="GolfHdcpJavaApp/GolfHdcpJavaApp.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/GolfHdcpJavaApp/GolfHdcpJavaApp.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=GolfHdcpJavaApp/src&lt;com.kfelix.golfhdcpapp{GolfHcpLauncher.java[GolfHcpLauncher" manifestLocation="/GolfHdcpJavaApp/GHJA_Manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/GolfHdcpJavaApp/gradlew"/>
+        <folder path="/GolfHdcpJavaApp/gradle"/>
+        <file path="/GolfHdcpJavaApp/GolfHdcpJavaApp.jardesc"/>
+        <file path="/GolfHdcpJavaApp/gradlew.bat"/>
+        <file path="/GolfHdcpJavaApp/settings.gradle"/>
+        <javaElement handleIdentifier="=GolfHdcpJavaApp/src\/main\/java"/>
+        <folder path="/GolfHdcpJavaApp/.gradle"/>
+        <file path="/GolfHdcpJavaApp/.project"/>
+        <file path="/GolfHdcpJavaApp/GHJA_Manifest"/>
+        <folder path="/GolfHdcpJavaApp/.settings"/>
+        <file path="/GolfHdcpJavaApp/build.gradle"/>
+        <javaElement handleIdentifier="=GolfHdcpJavaApp/src\/test\/java"/>
+        <javaElement handleIdentifier="=GolfHdcpJavaApp/src"/>
+        <file path="/GolfHdcpJavaApp/.classpath"/>
+    </selectedElements>
+</jardesc>
